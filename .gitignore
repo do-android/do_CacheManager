@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_CacheManager/do_CacheManager.zip
+/doExt_do_CacheManager/do_build.xml
+/doExt_do_CacheManager/libs/docore.jar
